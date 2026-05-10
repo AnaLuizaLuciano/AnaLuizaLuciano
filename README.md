@@ -9,26 +9,51 @@
 
 ## 🛠 Tecnologias e Ferramentas
 
-<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><br>
+      HTML
+    </td>
 
-<img alt="HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img alt="CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img alt="JavaScript" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img alt="PHP" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><br>
+      CSS
+    </td>
 
-<br><br>
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br>
+      JavaScript
+    </td>
 
-<img alt="Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img alt="Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img alt="MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><br>
+      PHP
+    </td>
+  </tr>
 
-<br><br>
+  <tr>
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br>
+      Java
+    </td>
 
-<img alt="GitHub" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img alt="VSCode" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>
+      Python
+    </td>
 
-</div>
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>
+      MySQL
+    </td>
+
+    <td align="center">
+      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br>
+      Git
+    </td>
+  </tr>
+</table>
 
 ---
 
