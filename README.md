@@ -9,51 +9,21 @@
 
 ## 🛠 Tecnologias e Ferramentas
 
-<table>
-  <tr>
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"><br>
-      HTML
-    </td>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> HTML
 
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><br>
-      CSS
-    </td>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> CSS
 
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"><br>
-      JavaScript
-    </td>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> JavaScript
 
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><br>
-      PHP
-    </td>
-  </tr>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> PHP
 
-  <tr>
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"><br>
-      Java
-    </td>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
 
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><br>
-      Python
-    </td>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
 
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"><br>
-      MySQL
-    </td>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> MySQL
 
-    <td align="center">
-      <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"><br>
-      Git
-    </td>
-  </tr>
-</table>
+<img align="center" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
 
 ---
 
