@@ -28,6 +28,15 @@
 
 ---
 
+## 🌟 Projetos
+
+🌱 **Projeto Sustentabilidade**  
+Projeto interativo sobre sustentabilidade e reciclagem com quiz e conteúdo educativo.
+
+🔗 https://analuizaluciano.github.io/ecoedu.github.io/
+
+---
+
 ## 📫 Contato
 
 📧 analuizalucianocosta2007@gmail.com  
