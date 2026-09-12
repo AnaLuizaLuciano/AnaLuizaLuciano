@@ -65,13 +65,13 @@ Projeto interativo sobre sustentabilidade e reciclagem com quiz e conteúdo educ
 ## 📫 Contato
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/analuizaluciano" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI" target="_blank">
+  <a href="mailto:analuizalucianocosta2007@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/SEU-LINK-AQUI" target="_blank">
+  <a href="https://www.instagram.com/https://www.instagram.com/analu.riedel/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-9333EA?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
